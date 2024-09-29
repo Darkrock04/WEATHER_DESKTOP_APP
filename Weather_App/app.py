@@ -122,7 +122,7 @@ class Weather(Tk):
             config_file=configparser.ConfigParser()
             config_file.read("config.ini")
             api=config_file['Openweather']['api']
-            data=f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid=d78f79a69d66be56aeb228cfe35bc552'
+            data=f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid=ADD_YOUR_APIKEY_HERE.....'
             weather=requests.get(data).json()
             self.__set_information(weather=weather)
 
