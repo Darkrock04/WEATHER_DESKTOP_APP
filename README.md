@@ -13,7 +13,9 @@ Weather app is a minimal desktop application that displays live weather data for
 - Python 3.9.1
 - Requests Python Module
 </br>
+
 # REQUERED  MODULES FOR THE PROJECT 
+
 
 $ pip install tkinter
 
