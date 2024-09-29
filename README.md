@@ -3,7 +3,7 @@
 ![weather](https://img.shields.io/badge/GUI-Tkinter-orange?style=flat-square&logo=python) 
 ![weather](https://img.shields.io/badge/API-openweather-blue?style=flat-square&logo=api)
 
-Weather app is a minimal desktop application that displays live weather data for any city in the INDIA. Built using Python, Tkinter, and the OpenWeather API, it provides users with real-time weather information, including temperature, humidity, and weather description.
+Weather app is a minimal desktop application that displays live weather data for any locations in the WORLD. Built using Python, Tkinter, and the OpenWeather API, it provides users with real-time weather information, including temperature, humidity, and weather description.
 
 # Technologies Used:
 - OpenWeather Api
