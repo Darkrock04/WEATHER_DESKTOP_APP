@@ -16,8 +16,11 @@ Weather app is a minimal desktop application that displays live weather data for
 # REQUERED  MODULES FOR THE PROJECT 
 
 $ pip install tkinter
+
 $ pip install Timezonefinder
+
 $ pip install Pytz
+
 $ pip install requests
 
 
