@@ -33,7 +33,7 @@ class Weather(Tk):
        self.search=StringVar()
        self.search_textbox=Entry(textvariable=self.search,font=("Segoe UI",14,'bold'),width=24,justify="center",relief="flat")
        self.search_textbox.place(x=25,y=25)
-       Label(text="Current Weather :",font='Arial 14 bold',fg="red").place(x=590,y=7
+       Label(text="Current Weather :",font='Arial 14 bold',fg="red").place(x=590,y=7)
        self.img2=Image.open(r'Images/location.png')
        self.resizeimg2=self.img2.resize((20,20))
        self.finalimg2=ImageTk.PhotoImage(self.resizeimg2)
